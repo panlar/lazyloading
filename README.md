@@ -7,7 +7,7 @@ Esta libreria hace la famosa carga lenta (lazyloading), la cual se encarga de ca
 Hacerlo dentro y al final de la etiqueta **body**
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/panlar/scrollreveal/scrollreveal.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/panlar/lazyloading/lazyloading.min.js"></script>
 ```
 
 ### Sintaxis
