@@ -2,6 +2,11 @@
 
 Esta libreria hace la famosa carga lenta (lazyloading), la cual se encarga de cargar la imagen solo cuando es necesario, osea, cuando el elemento entra en el viewport.
 
+### CDN ```jsdelivr```
+```
+https://cdn.jsdelivr.net/gh/panlar/lazyloading/lazyloading.min.js
+```
+
 ### Sintaxis
 
 ```js
